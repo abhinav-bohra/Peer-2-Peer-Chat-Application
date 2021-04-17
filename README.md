@@ -1,7 +1,7 @@
 # Peer-2-Peer-Chat-Application
 A network application - Peer-to-Peer Chat Application for multiple users
 
-<p><img src="interface.png" width="1520" height="940" /></p><br>
+<p><img src="interface.png" width="1520" height="540" /></p><br>
 
 ## Introduction
 A peer-to-peer (P2P) application is an application primitive, where there are no dedicated central server
@@ -50,5 +50,5 @@ maintain multiple file descriptors, and handle them in an iterative way. This is
 by the select() system call. A flow diagram of the entire process is given next.
 
 
-<p><img src="flow_diagram.png" width="1520" height="940" /></p><br>
+<p><img src="flow_diagram.png" width="1520" height="540" /></p><br>
 
